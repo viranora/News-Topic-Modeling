@@ -37,3 +37,6 @@ We will use the famous **"20 Newsgroups"** dataset. It's a classic dataset for t
     * By looking at these words (e.g., "game, team, players, season"), we can manually label the topic (e.g., "Sports").
 5.  **Test Model:**
     * We will take a new, unseen document and ask the model to predict which topic it belongs to.
+
+
+### Created by vira...
